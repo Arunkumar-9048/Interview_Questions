@@ -1,7 +1,7 @@
 ## Programming questions that were asked during interviews
 programming language: Python 3
 
-# Tips
+# Tips for attending an interview
 # prepare and study before attending an interview  
 
 - when your asked to answer a logic question don't over think it, just keep it simple and think calmly
